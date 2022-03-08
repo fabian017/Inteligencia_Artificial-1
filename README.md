@@ -20,4 +20,4 @@ Jose Fabian Jimenez Ovalle, Javier Fernando Carvajal Sanabria, Juan Sebastian Mo
 
 **Video:** https://www.youtube.com/watch?v=UXmtEJ3NN4U 
 
-**Repositorio:** https://github.com/fabian017/INTELIGENCIA-ARTIFICIAL
+**Repositorio:** https://github.com/fabian017/Inteligencia_Artificial-1
